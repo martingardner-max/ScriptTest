@@ -21,6 +21,11 @@ public class Test : MonoBehaviour
         {
             Debug.Log(array[i]);
         }
+        //”z—ñ‚Ì—v‘f‚ð‹t‚É•\Ž¦‚·‚é
+        for (int i = 4; i >=0; i--)
+        {
+            Debug.Log(array[i]);
+        }
     }
 
     // Update is called once per frame
